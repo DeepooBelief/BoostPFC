@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "adc_ex10_multiple_soc_epwm",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "adc_ex10_multiple_soc_epwm",
+                "resourceId": "/adc_ex10_multiple_soc_epwm"
+            },
+            "debuggerSettings": {
+                "targetConfigs/TMS320F280025C_LaunchPad.ccxml": {
+                    "Texas Instruments XDS110 USB Debug Probe_0/C28xx_CPU1": {
+                        "data": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\" ?>\n<PropertyValues/>\n"
+                    }
+                }
+            }
+        }
+    ]
+}

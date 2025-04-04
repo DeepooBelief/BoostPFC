@@ -1,0 +1,9 @@
+"./adc_ex10_multiple_soc_epwm.obj"
+"./syscfg/board.obj"
+"./syscfg/c2000ware_libraries.obj"
+"./device/device.obj"
+"./device/f28002x_codestartbranch.obj"
+"../28002x_generic_flash_lnk.cmd"
+"C:/ti/C2000Ware_5_04_00_00/driverlib/f28002x/driverlib/ccs/Debug/driverlib.lib"
+-lc2000ware_libraries.cmd.genlibs
+-llibc.a

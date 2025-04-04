@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<ccsVariant value="50:Theia-based"/>
+	<ccsVersion value="70.1.0"/>
+	<deviceFamily value="C2000"/>
+	<executableActions value=""/>
+	<createSlaveProjects value=""/>
+	<templateProperties value="id=adc_ex10_multiple_soc_epwm.projectspec.adc_ex10_multiple_soc_epwm"/>
+	<origin value="C:\ti\C2000Ware_5_04_00_00\driverlib\f28002x\examples\adc\CCS\adc_ex10_multiple_soc_epwm.projectspec"/>
+	<filesToOpen value=""/>
+	<activeTargetConfiguration value="targetConfigs/TMS320F280025C_LaunchPad.ccxml"/>
+	<isTargetConfigurationManual value="true"/>
+</projectOptions>

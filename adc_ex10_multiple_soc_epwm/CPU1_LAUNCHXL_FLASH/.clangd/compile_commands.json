@@ -1,0 +1,17 @@
+[
+   {
+      "directory" : "C:/Users/Will/Downloads/PWM_WORK/PWM_WORK/adc_ex10_multiple_soc_epwm/CPU1_LAUNCHXL_FLASH",
+      "command"   : "clang++ -I\"C:/Users/Will/Downloads/PWM_WORK/PWM_WORK/adc_ex10_multiple_soc_epwm\" -I\"C:/ti/C2000Ware_5_04_00_00\" -I\"C:/Users/Will/Downloads/PWM_WORK/PWM_WORK/adc_ex10_multiple_soc_epwm/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f28002x/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -D_FLASH -D_LAUNCHXL_F280025C -I\"C:/Users/Will/Downloads/PWM_WORK/PWM_WORK/adc_ex10_multiple_soc_epwm/CPU1_LAUNCHXL_FLASH/syscfg\"",
+      "file"      : "C:/Users/Will/Downloads/PWM_WORK/PWM_WORK/adc_ex10_multiple_soc_epwm/adc_ex10_multiple_soc_epwm.c"
+   },
+   {
+      "directory" : "C:/Users/Will/Downloads/PWM_WORK/PWM_WORK/adc_ex10_multiple_soc_epwm/CPU1_LAUNCHXL_FLASH",
+      "command"   : "clang++ -I\"C:/Users/Will/Downloads/PWM_WORK/PWM_WORK/adc_ex10_multiple_soc_epwm\" -I\"C:/ti/C2000Ware_5_04_00_00\" -I\"C:/Users/Will/Downloads/PWM_WORK/PWM_WORK/adc_ex10_multiple_soc_epwm/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f28002x/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -D_FLASH -D_LAUNCHXL_F280025C -I\"C:/Users/Will/Downloads/PWM_WORK/PWM_WORK/adc_ex10_multiple_soc_epwm/CPU1_LAUNCHXL_FLASH/syscfg\"",
+      "file"      : "C:/Users/Will/Downloads/PWM_WORK/PWM_WORK/adc_ex10_multiple_soc_epwm/device/device.c"
+   },
+   {
+      "directory" : "C:/Users/Will/Downloads/PWM_WORK/PWM_WORK/adc_ex10_multiple_soc_epwm/CPU1_LAUNCHXL_FLASH",
+      "command"   : "clang++ -I\"C:/Users/Will/Downloads/PWM_WORK/PWM_WORK/adc_ex10_multiple_soc_epwm\" -I\"C:/ti/C2000Ware_5_04_00_00\" -I\"C:/Users/Will/Downloads/PWM_WORK/PWM_WORK/adc_ex10_multiple_soc_epwm/device\" -I\"C:/ti/C2000Ware_5_04_00_00/driverlib/f28002x/driverlib/\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -DDEBUG -D_FLASH -D_LAUNCHXL_F280025C -I\"C:/Users/Will/Downloads/PWM_WORK/PWM_WORK/adc_ex10_multiple_soc_epwm/CPU1_LAUNCHXL_FLASH/syscfg\"",
+      "file"      : "C:/Users/Will/Downloads/PWM_WORK/PWM_WORK/adc_ex10_multiple_soc_epwm/device/f28002x_codestartbranch.asm"
+   }
+]
